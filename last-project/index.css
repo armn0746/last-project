@@ -1,0 +1,189 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+   
+}
+/*  header 1st projcet file */
+header {
+    width: 600%;
+}
+.header-info {
+    background-color: rgb(231, 211, 185);
+    display: flex;
+    padding: 0px 100px;
+}
+.header-text {   
+    margin: 200px 100px;
+}
+.header-text h1 {
+    font-size: 60px;
+}
+.header-text p {
+    text-align: left;
+}
+.btn {
+    background-color: red;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px 10px;
+}
+.btn:hover{
+    background-color: rgb(255, 252, 252);
+    color: rgb(235, 15, 15);
+    padding: 10px 30px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 20px 20px 10px 0px rgb(93, 102, 102);
+    border-radius: 10px 10px;
+}
+.header-img {
+    /* height: 100%; */
+}
+
+/* main 2nd projcet file */
+main {
+    margin: 150px;
+}
+main h1, p {
+    padding: 10px 0px;
+    text-align: center;
+}
+.main-info {
+    justify-content: center;
+    display: flex;
+align-items: center;
+}
+
+
+
+.backgraount-img-1 {
+    border-radius: 200px 200px 0px 0px;
+    background-color: rgb(238, 163, 226);
+    padding: 50px 50px 0px 50px;
+    margin-left: 100px;
+    
+   
+}
+.backgraount-img-2 {
+    margin: 50px;
+    border-radius: 200px 200px 0px 0px;
+    background-color: rgb(163, 214, 238);
+    padding: 110px 10px 0px 10px;
+   
+}
+.backgraount-img-3 {
+    border-radius: 200px 200px 0px 0px;
+    background-color: rgb(212, 235, 175);
+    padding: 10px 50px 0px 50px;
+}
+.main-text {
+    display: flex;
+   
+}
+
+
+
+
+/* Delivery-info 3nd projcet page */
+.Delivery-info {
+    background-color: rgb(178, 228, 252);
+    margin: 100px;
+    padding: 100px;
+    display: flex;
+    text-align: center;
+}
+
+
+
+/* Hot-Deal-info 4th projcet page */
+.Hot-Deal-info {
+    margin: 100px ;
+    padding: 100px;
+    display: flex;
+    background-color: antiquewhite;
+}
+.Hot-Deal-text {
+   text-align: center;
+    padding: 200px 0px;
+}
+.Hot-Deal-text span{
+    color: red;
+}
+
+
+/* Instagram-info 5th procjet page */
+
+.Instagram-info h1, p {
+text-align: center;
+}
+.Instagram-img-info {
+    padding: 0px 50px;
+    margin: 10px 0px 0px 20px;
+    display: flex;
+    gap: 10px;
+    width: 500%;
+}
+.imges-info-1 {
+    
+    margin: 20px 20px 0px 0px;
+}
+.imges-info-2 {
+
+    margin: 20px;
+}
+.imges-info-3 {
+   
+    margin: 20px;
+}
+.imges-info-4 {
+    
+    margin: 20px;
+}
+.Instagram-img-info {
+    width: 100%;
+}
+.Instagram-img-info img {
+    width: 50%;
+}
+
+
+/* Get The Latest Deals 6th projcet page */
+
+.Get-The-Latest-Deals{
+    margin: 100px ;
+    padding: 100px;
+    background-image: url('./imges/Rectangle\ 9.png');
+  
+}
+
+.Get-The-Latest-Deals h1, p {
+    text-align: center;
+}
+.input {
+    display: flex;
+}
+
+/* FlowerShop 7th projcet page */
+
+.FlowerShop {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding: 150px;
+}
+.FlowerShop span {
+    color: red;
+}
+
+
+
+/* youtub 8th projcet page */
+.youtub {
+    margin: 100px;
+    padding: 100px;
+    text-align: center;
+}
+.youtub h1 {
+    padding: 50px;
+}
